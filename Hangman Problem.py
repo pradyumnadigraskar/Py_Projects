@@ -71,11 +71,11 @@ while "-" in disp and a!=0:
         print(a)         
         print(l2[5 - a])
         if a==0:
-            print("lost")
+            print("LOSER")
             break
                          
     print(disp)
-print("shabas bete")
+print("Winner")
     
 
 
